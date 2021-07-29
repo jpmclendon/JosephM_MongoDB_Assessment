@@ -1,3 +1,3 @@
 .editor
 
-db.Users.find({neighborhood : 'uptown'})
+db.Users.find({'houses'}, {neighborhood : 'uptown'})
