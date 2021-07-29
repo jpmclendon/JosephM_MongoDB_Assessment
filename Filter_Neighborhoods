@@ -1,0 +1,3 @@
+.editor
+
+db.Users.find({neighborhood : 'uptown'})
